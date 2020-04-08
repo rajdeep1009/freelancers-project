@@ -1,0 +1,5 @@
+com\application\freelancers\util\DataSource.class
+com\application\freelancers\FreelancersApplication.class
+com\application\freelancers\controller\FreelancerController.class
+com\application\freelancers\service\FreelancerService.class
+com\application\freelancers\model\Freelancer.class
